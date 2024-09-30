@@ -1,0 +1,14 @@
+.eSignatureContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.eSignatureContainer p {
+    font-size: 2rem;
+}
+
+.eSignatureContainer input {
+    font-size: 1.5rem;
+}
